@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LEDWizDemo">
+</Property><Property Name="Solution File" Value="C:\Users\headk_000\Documents\Visual Studio 2008\Projects\General\LEDWizSDK\VB.NET\LEDWizDemo.sln">
+</Property><Property Name="Date" Value="Friday, 14 October 2016">
+</Property><Property Name="Time" Value="11:12 AM">
+</Property></Properties><Event ErrorLevel="0" Project="LEDWizDemo" Source="LEDWizDemo.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LEDWizDemo" Source="LEDWizDemo.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LEDWizDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LEDWizDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LEDWizDemo" Source="LEDWizDemo.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

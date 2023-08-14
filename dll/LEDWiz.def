@@ -1,0 +1,14 @@
+EXPORTS
+	LWZ_SetCallbacks		@1
+	LWZ_Initialize			@2
+	LWZ_Shutdown			@3
+	LWZ_SBA					@4
+	LWZ_PBA					@5
+	LWZ_GetDeviceType		@6
+	LWZ_GetVendorId			@7
+	LWZ_GetProductId		@8
+	LWZ_GetVersionNumber	@9
+	LWZ_GetVendorName		@10
+	LWZ_GetProductName		@11
+	LWZ_GetSerialNumber		@12
+	LWZ_GetDevicePath		@13
